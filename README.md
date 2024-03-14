@@ -16,7 +16,7 @@ Typer.js is an easy to use, choc-full-of-options, robust automated typing librar
 
 Typer.js has **no library dependencies** so just slap it on your page and go. We still love you, [jQuery](https://cdnjs.com/libraries/jquery/). And the minified file is only 4k gzipped!
 
-In short... Typer.js can type regular characters, [unicode](http://dev.w3.org/html5/html-author/charref) [characters](http://unicode-table.com/en/), whole words, half words, HTML elements, erase stuff, go fast, go slow, make new lines, fire events, listen to events, run functions, and make julienne fries in minutes.
+In short... Typer.js can type regular characters, [unicode](http://dev.w3.org/html5/html-author/charref) [characters](https://symbl.cc/en/), whole words, half words, HTML elements, erase stuff, go fast, go slow, make new lines, fire events, listen to events, run functions, and make julienne fries in minutes.
 
 <!-- Refresh cached version: https://goo.gl/9g8mes -->
 <!-- [Live Demo / Tutorial](http://aaroncordova.xyz/typer) -->
@@ -361,7 +361,7 @@ Typer can handle html, unicode, and all sorts of craziness ([see below](#html--u
 
 _Go nuts_. You can include `<div>`'s, `<span>`'s, elements with styles (i.e. `<span style="color: red;">I'm red!</span>`), `<em>`'s, `<strong>`'s, etc. You can also include [HTML void elements](http://www.w3.org/TR/html-markup/syntax.html#syntax-elements) (self-closing tags) such as `<br>`, `<img>`, and `<hr>`. If you're really feeling brave, start including `<textarea>`'s and `<input>`'s!.
 
-Valid [unicode](http://dev.w3.org/html5/html-author/charref) [characters](http://unicode-table.com/en/) begin with `&` and end with `;`. Some examples:
+Valid [unicode](http://dev.w3.org/html5/html-author/charref) [characters](https://symbl.cc/en/) begin with `&` and end with `;`. Some examples:
 
 | Character | Code        | Character | Code      | Character | Code      |
 | :-------: | ----------- | :-------: | --------- | :-------: | --------- |
